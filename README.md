@@ -1,3 +1,1 @@
-This is test.
-
-hi~ hello~
+My Personal Ubuntu i3wm settings
