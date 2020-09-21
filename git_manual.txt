@@ -1,0 +1,3 @@
+# how to use git
+
+git을 이용한 GitHub 사용 메뉴얼
