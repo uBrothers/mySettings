@@ -1,3 +1,6 @@
 # how to use git
 
 git을 이용한 GitHub 사용 메뉴얼
+
+file 수정 및 생성 후 작업
+	1.
