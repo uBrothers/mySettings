@@ -18,8 +18,9 @@ set showmatch " 일치하는 괄호 하이라이팅
 set smartcase " 검색시 대소문자 구별
 set smarttab
 set smartindent
-set softtabstop=4
 set tabstop=4
+set expandtab
+set shiftwidth=4
 set ruler " 현재 커서 위치 표시
 set incsearch
 set statusline=\ %<%l:%v\ [%P]%=%a\ %h%m%r\ %F\
